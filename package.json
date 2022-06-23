@@ -14,7 +14,7 @@
     "nan": "^2.15.0"
   },
   "devDependencies": {
-    "node-gyp": "^7.1.2",
+    "node-gyp": "^9.0.0",
     "npm-watch": "^0.7.0",
     "tree-sitter-cli": "^0.19.5"
   },
