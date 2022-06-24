@@ -16,7 +16,7 @@
   "devDependencies": {
     "node-gyp": "^9.0.0",
     "npm-watch": "^0.7.0",
-    "tree-sitter-cli": "^0.19.5"
+    "tree-sitter-cli": "^0.20.0"
   },
   "watch": {
     "test": {
@@ -51,6 +51,9 @@
       "scope": "source.dart",
       "file-types": [
         "dart"
+      ],
+      "highlights": [
+        "queries/highlights.scm"
       ],
       "injection-regex": "dart"
     }
